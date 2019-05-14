@@ -1,4 +1,4 @@
-# breaking-even
+# Breaking Even
 A present for the Gu
 
 This is the code behind [https://justinpinner.github.io/breaking-even/html/](https://justinpinner.github.io/breaking-even/html/)
